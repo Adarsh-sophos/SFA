@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.UserServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.845 s <<< FAILURE! - in com.example.UserServiceTest
+testServiceCall  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.support.BeanDefinitionOverrideException: Invalid bean definition with name 'restTemplate' defined in class path resource [org/springframework/boot/test/autoconfigure/web/client/WebClientRestTemplateAutoConfiguration.class]: Cannot register bean definition [Root bean: class [null]; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.boot.test.autoconfigure.web.client.WebClientRestTemplateAutoConfiguration; factoryMethodName=restTemplate; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/test/autoconfigure/web/client/WebClientRestTemplateAutoConfiguration.class]] for bean 'restTemplate': There is already [Root bean: class [null]; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=com.example.config.RestTemplateConfig; factoryMethodName=restTemplate; initMethodName=null; destroyMethodName=(inferred); defined in com.example.config.RestTemplateConfig] bound.
+

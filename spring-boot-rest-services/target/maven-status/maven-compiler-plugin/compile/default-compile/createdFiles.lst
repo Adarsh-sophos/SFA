@@ -1,0 +1,15 @@
+com/example/springboot/security/SecurityConfig.class
+com/example/springboot/jpa/UserCommandLineRunner.class
+com/example/springboot/configuration/BasicConfiguration.class
+com/example/springboot/service/StudentService.class
+com/example/springboot/WelcomeController.class
+com/example/springboot/configuration/DevelopmentOnlyConfiguration.class
+com/example/springboot/StudentApplication.class
+com/example/springboot/jpa/User.class
+com/example/springboot/model/Course.class
+com/example/springboot/jpa/UserRestRepository.class
+com/example/springboot/jpa/UserRepository.class
+com/example/springboot/configuration/ProductionOnlyConfiguration.class
+com/example/springboot/WelcomeService.class
+com/example/springboot/controller/StudentController.class
+com/example/springboot/model/Student.class

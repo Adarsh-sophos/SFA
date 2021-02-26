@@ -1,0 +1,3 @@
+com/example/springboot/jpa/hibernate/h2/student/Student.class
+com/example/springboot/jpa/hibernate/h2/student/StudentRepository.class
+com/example/springboot/jpa/hibernate/h2/SpringBoot2JPAWithHibernateAndH2Application.class

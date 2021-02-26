@@ -1,0 +1,7 @@
+com/example/springboot/rest/SpringBoot2RestServiceApplication.class
+com/example/springboot/rest/student/StudentResource.class
+com/example/springboot/rest/swagger/ApiDocumentationConfig.class
+com/example/springboot/rest/student/StudentRepository.class
+com/example/springboot/rest/student/StudentNotFoundException.class
+com/example/springboot/rest/swagger/SwaggerConfig.class
+com/example/springboot/rest/student/Student.class

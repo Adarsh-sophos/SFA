@@ -1,0 +1,15 @@
+/Users/vn50kpo/Desktop/SFA/M2/spring-boot-rest-services/spring-boot-rest-services/src/main/java/com/example/springboot/configuration/ProductionOnlyConfiguration.java
+/Users/vn50kpo/Desktop/SFA/M2/spring-boot-rest-services/spring-boot-rest-services/src/main/java/com/example/springboot/jpa/UserRestRepository.java
+/Users/vn50kpo/Desktop/SFA/M2/spring-boot-rest-services/spring-boot-rest-services/src/main/java/com/example/springboot/jpa/UserRepository.java
+/Users/vn50kpo/Desktop/SFA/M2/spring-boot-rest-services/spring-boot-rest-services/src/main/java/com/example/springboot/WelcomeController.java
+/Users/vn50kpo/Desktop/SFA/M2/spring-boot-rest-services/spring-boot-rest-services/src/main/java/com/example/springboot/service/StudentService.java
+/Users/vn50kpo/Desktop/SFA/M2/spring-boot-rest-services/spring-boot-rest-services/src/main/java/com/example/springboot/configuration/BasicConfiguration.java
+/Users/vn50kpo/Desktop/SFA/M2/spring-boot-rest-services/spring-boot-rest-services/src/main/java/com/example/springboot/configuration/DevelopmentOnlyConfiguration.java
+/Users/vn50kpo/Desktop/SFA/M2/spring-boot-rest-services/spring-boot-rest-services/src/main/java/com/example/springboot/security/SecurityConfig.java
+/Users/vn50kpo/Desktop/SFA/M2/spring-boot-rest-services/spring-boot-rest-services/src/main/java/com/example/springboot/model/Student.java
+/Users/vn50kpo/Desktop/SFA/M2/spring-boot-rest-services/spring-boot-rest-services/src/main/java/com/example/springboot/controller/StudentController.java
+/Users/vn50kpo/Desktop/SFA/M2/spring-boot-rest-services/spring-boot-rest-services/src/main/java/com/example/springboot/StudentApplication.java
+/Users/vn50kpo/Desktop/SFA/M2/spring-boot-rest-services/spring-boot-rest-services/src/main/java/com/example/springboot/model/Course.java
+/Users/vn50kpo/Desktop/SFA/M2/spring-boot-rest-services/spring-boot-rest-services/src/main/java/com/example/springboot/WelcomeService.java
+/Users/vn50kpo/Desktop/SFA/M2/spring-boot-rest-services/spring-boot-rest-services/src/main/java/com/example/springboot/jpa/User.java
+/Users/vn50kpo/Desktop/SFA/M2/spring-boot-rest-services/spring-boot-rest-services/src/main/java/com/example/springboot/jpa/UserCommandLineRunner.java
